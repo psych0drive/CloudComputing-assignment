@@ -1,0 +1,16 @@
+Computer Programming,CS101
+Digital Design,EC101
+Basic Electronic circuits,EC103
+Data structures,CS103
+Algorithm,CS201
+Data communication,CS221
+operating sysytem,CS231
+DBMS,CS240
+TOC,CS301
+ML,CS306
+Compilers,CS321
+Software Engineering,CS330
+Data analytics,CS401
+Algorithmic game theory,CS412
+Financial engineering,CS460
+Network Science,CS470
